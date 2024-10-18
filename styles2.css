@@ -1,0 +1,51 @@
+body {
+	background-image: url("sky2.gif");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position-y: -120px;
+}
+
+.one {
+	color: white;
+
+}
+
+#title {
+	background-image: url("stars.gif");
+	background-size: 40%;
+	text-align: center;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+#log {
+	text-align: center;
+}
+
+.two {
+	background-color: #c791bc;
+	border-radius: 5px;
+	width: 30px;
+	height: 400px;
+	padding: 10px;
+	margin: auto;
+	width: 500px;
+	box-shadow: 10px 10px 5px 1px darkslateblue;
+}
+
+.cat {
+	border-radius: 50%;
+}
+
+input[type=submit] {
+  width: 25%;
+  padding: 1px 5px;
+  margin: center;
+  box-sizing: border-box;
+  border: 1px dashed;
+  border-color: darkslateblue;
+  border-radius: 15px;
+  box-shadow: 2px 2px darkslateblue ;
+  background-color: lightgrey;
+  color: darkslateblue;
+  font-family: Pixelify Sans;
